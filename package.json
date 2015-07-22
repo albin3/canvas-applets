@@ -1,0 +1,21 @@
+{
+  "name": "WebGL",
+  "version": "0.0.0",
+  "description": "webgl practise.",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/albin3/WebGL.git"
+  },
+  "keywords": [
+    "WebGL",
+    "Nodejs",
+    "Canvas"
+  ],
+  "author": "Albin Zeng.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/albin3/WebGL/issues"
+  },
+  "homepage": "https://github.com/albin3/WebGL"
+}
