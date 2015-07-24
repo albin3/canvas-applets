@@ -63,6 +63,9 @@ $(document).ready(function() {
     if (min_y>y11+(y12-y11)/6) {
       trees.push(new Tree(y11,1));
     }
+    while (trees.length > 10) {
+      trees.shift();
+    }
     for(var i=0; i<trees.length; i++) {
       var tree = trees[i];
       if (!tree) continue;
