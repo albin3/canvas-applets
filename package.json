@@ -1,7 +1,7 @@
 {
   "name": "WebGL",
   "version": "0.0.1",
-  "description": "webgl practise.",
+  "description": "webgl demos.",
   "main": "index.html",
   "repository": {
     "type": "git",
