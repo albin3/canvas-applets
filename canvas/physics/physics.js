@@ -12,12 +12,14 @@ $(document).ready(function() {
     stopButton.show();
     playAnimation = true;
     animate();
+    return;
   });
 
   stopButton.click(function() {
     $(this).hide();
     startButton.show();
     playAnimation = false;
+    return;
   });
 
   //全局变量
