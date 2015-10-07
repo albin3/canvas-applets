@@ -1,5 +1,7 @@
-# WebGL
-sth about WebGL
+# Canvas
 
-项目部署在 
+Something about canvas and WebGL.
+
+Project is hosted at:
+
 [webgl.keepmoving.us](http://webgl.keepmoving.us/)
